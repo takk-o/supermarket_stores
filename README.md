@@ -11,8 +11,8 @@
 
 ## Usage
 1.　supermarket_stores.pyを起動
-2.　'output'フォルダにSupermarketStores.xlsxが作成される
+1.　'output'フォルダにSupermarketStores.xlsxが作成される
 
 ## Author
-* takk-o
-* Mail : ynurmj5e@gmail.com
+- takk-o
+- Mail : ynurmj5e@gmail.com
