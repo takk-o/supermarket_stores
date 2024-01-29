@@ -10,8 +10,8 @@
 - openpyxl 3.1.2
 
 ## Usage
-1.　supermarket_stores.pyを起動
-1.　'output'フォルダにSupermarketStores.xlsxが作成される
+1\.　supermarket_stores.pyを起動
+1\.　'output'フォルダにSupermarketStores.xlsxが作成される
 
 ## Author
 - takk-o
