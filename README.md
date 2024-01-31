@@ -1,7 +1,7 @@
 # supermarket_stores
 
 ## Overview
-検索サイトより、スーパーマーケットの店舗情報を収集し、Excelファイルに出力する。
+検索サイトより、スーパーマーケットの店舗情報(都道府県/市区町村)を収集し、Excelファイルに出力する。
 
 ## Requirements
 - Python 3.11.7
